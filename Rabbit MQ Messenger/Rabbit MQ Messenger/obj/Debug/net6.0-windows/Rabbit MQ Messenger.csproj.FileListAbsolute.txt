@@ -1,0 +1,30 @@
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\Rabbit MQ Messenger.exe
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\Rabbit MQ Messenger.deps.json
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\Rabbit MQ Messenger.runtimeconfig.json
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\Rabbit MQ Messenger.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\Rabbit MQ Messenger.pdb
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.csproj.AssemblyReference.cache
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit_MQ_Messenger.Dashboard.resources
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit_MQ_Messenger.Login.resources
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.csproj.GenerateResource.cache
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.AssemblyInfoInputs.cache
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.AssemblyInfo.cs
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.csproj.CoreCompileInputs.cache
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.csproj.CopyComplete
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\refint\Rabbit MQ Messenger.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.pdb
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit MQ Messenger.genruntimeconfig.cache
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\ref\Rabbit MQ Messenger.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit_MQ_Messenger.Register.resources
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\obj\Debug\net6.0-windows\Rabbit_MQ_Messenger.Properties.Resources.resources
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\RabbitMQ.Client.dll
+C:\Users\timli\source\repos\Rabbit MQ Messenger\Rabbit MQ Messenger\bin\Debug\net6.0-windows\System.Threading.Channels.dll
